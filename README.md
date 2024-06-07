@@ -10,12 +10,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
-- ViuJS
+- VueJS
 
 ## 💻 Projeto
 
 Um simples projeto de um app web de um serviço self service para pedidos de estabelecimentos de lanchonete.
-Ao selecionar o item desejado e quantidade é colocado os item no resumo do pedido e calculado seu sub total por item e total geral do pedido.
+Ao selecionar os itens, vão sendo incluindo no resumo de pedido, calculando os subtotais de cada item e o total geral do pedido.
 
 ---
 
